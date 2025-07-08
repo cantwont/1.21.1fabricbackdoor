@@ -15,3 +15,5 @@ commands:
 /base [PLAYER] same shit as above except it gets their bed location, essentially a base finder, e.g. /base Notch
 
 /inv [PLAYER] just lets u see a players inventory, armor, etc, e.g. /inv Notch
+
+telegram if u need assistance: t.me/CalmAssSupportAgent
