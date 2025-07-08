@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "id": "renderoptimizer",
+  "version": "${version}",
+  "name": "RenderOptimizer",
+  "description": "",
+  "authors": [],
+  "contact": {},
+  "license": "All-Rights-Reserved",
+  "icon": "assets/",
+  "environment": "server",
+  "entrypoints": {
+    "main": [
+      "org.CubeCraftBreakdownXYZ.renderoptimizer.RenderOptimizer"
+    ]
+  },
+  "mixins": [
+    "optimizer.mixins.json"
+  ],
+  "depends": {
+    "fabricloader": ">=0.15.0",
+    "fabric-api": "*",
+    "minecraft": "~1.21.1"
+  }
+}
